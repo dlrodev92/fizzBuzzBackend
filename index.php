@@ -3,12 +3,18 @@
 
 require 'vendor/autoload.php';
 
-//import routes here.
-require 'routes/fizzBuzzRoutes.php';
+require 'data/fizzBuzz.data.php';
 
-Flight::route('GET /', function() {
+//import routes here.
+require 'routes/fizzBuzz.routes.php';
+
+Flight::route('GET /tusmuertos', function() {
     print_r("Welcome to the FizzBuzz API");
 });
+
+
+
+
 // this function starts the the api.
 
 Flight::start();
