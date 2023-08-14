@@ -7,12 +7,7 @@ require 'data/fizzBuzz.data.php';
 
 //import routes here.
 require 'routes/fizzBuzz.routes.php';
-
-Flight::route('GET /tusmuertos', function() {
-    print_r("Welcome to the FizzBuzz API");
-});
-
-
+require 'routes/users.routes.php';
 
 
 // this function starts the the api.

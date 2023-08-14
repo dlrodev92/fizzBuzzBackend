@@ -1,1 +1,22 @@
-{}
+[
+    {
+        "id": "bb7f97f7-c526-45e4-8655-3cabab1ce2df",
+        "username": "david",
+        "password": "$2y$10$HEhKfXfu0PQgGCMqgv0sgO0rNgTvLAsDERBo.ydZtnywwhws\/2vzm"
+    },
+    {
+        "id": "5cc2a7d3-83e3-4471-832c-228132254524",
+        "username": "tom",
+        "password": "$2y$10$xBAoajbA17Gq3foNWwxJ7eq.dlTUkVRfFRehOjw3m23hiyYxY2ZnS"
+    },
+    {
+        "id": "c4283b8c-9e90-49d9-a566-01ca4ff2c60b",
+        "username": "user1",
+        "password": "$2y$10$DLiL5.Azip8zD7cFPgN7Q.0NYxe2.zY75f.woMENbsYyKdW9BwHum"
+    },
+    {
+        "id": "a3c2ad95-2631-470e-93bf-2d2318ec5d78",
+        "username": "user2",
+        "password": "$2y$10$JaD4F7NPVhpB3Ywge85bKe71WPs7ApZP1aQ5fPdFJiGWWkd79bWoO"
+    }
+]
