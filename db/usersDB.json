@@ -18,5 +18,10 @@
         "id": "a3c2ad95-2631-470e-93bf-2d2318ec5d78",
         "username": "user2",
         "password": "$2y$10$JaD4F7NPVhpB3Ywge85bKe71WPs7ApZP1aQ5fPdFJiGWWkd79bWoO"
+    },
+    {
+        "id": "6badff28-d6d5-459b-aa99-9a8ade3600d4",
+        "username": "pepe",
+        "password": "$2y$10$8Vo.2S.y0M2UUYR9.IywkeoJDODO7O9ozglVD\/YpzeD08EKt8i9Q2"
     }
 ]
